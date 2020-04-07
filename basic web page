@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>lesson 2:Creating a web page</title>
+     </head>
+      <body>
+	  <header>
+		  <h1>welcome to lesson 2!</h1>
+		  <p>Helllo to all the web development students!</p>
+	  </header>
+	  <a href="https://www.google.com/">This is a hyperlink</a>
+	  <nav>
+		  <ul>
+			  <li>lesson 1</li>
+			  <li>lesson 2</li>
+			  <li>lesson 3</li>
+		  </ul>
+	  </nav>
+	  <main>
+	  <section>
+	  <h1>introduction to web development</h1>
+			  <p>Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript.
+				   Responsive Web Design is used in all types of modern web development.
+					 ECMAScript 5 (JavaScript 5) is supported in all modern browsers. Take a good look at it, especially the new array functions.
+		</p>
+		</section>
+	  </main>
+		  <footer>
+		  <p>copyright manoj kumar</p>	
+		  </footer>
+       </body>
+</html>
